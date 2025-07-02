@@ -4,11 +4,7 @@
 
 ## 🎯 流程概览
 
-<div align="center">
-  <img src="./main.png" alt="GitHub协作完整流程图" width="100%" />
-  <br>
-  <em>GitHub协作完整流程图</em>
-</div>
+
 
 > **💡 生成图片方法：**
 > 1. 访问 [mermaid.live](https://mermaid.live)
