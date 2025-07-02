@@ -5,14 +5,8 @@
 ## 🎯 流程概览
 
 
-
-> **💡 生成图片方法：**
-> 1. 访问 [mermaid.live](https://mermaid.live)
-> 2. 复制下方Mermaid代码
-> 3. 导出为PNG格式并保存为 `main.png`
-
-<details>
-<summary>点击展开 Mermaid 源代码</summary>
+<details>   
+<summary>点击展开 具体流程图</summary>
 
 ```mermaid
 flowchart TD
